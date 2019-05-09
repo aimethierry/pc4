@@ -1,0 +1,9 @@
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\bin\Debug\Week1.exe.config
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\bin\Debug\Week1.exe
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\bin\Debug\Week1.pdb
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.Form1.resources
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.Properties.Resources.resources
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.csproj.GenerateResource.Cache
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.exe
+H:\FONTYs\PCS4\assignments\Projects\Week1\Week1\obj\Debug\Week1.pdb

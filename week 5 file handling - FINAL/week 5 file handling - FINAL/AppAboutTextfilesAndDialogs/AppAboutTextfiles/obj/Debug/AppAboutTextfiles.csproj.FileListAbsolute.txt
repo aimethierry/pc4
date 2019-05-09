@@ -1,0 +1,43 @@
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.exe
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.pdb
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Form1.resources
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Properties.Resources.resources
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csproj.GenerateResource.Cache
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+D:\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb
+D:\old_stuff\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+D:\old_stuff\English stream\OOD2\week 3\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Form1.resources
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Properties.Resources.resources
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\ResGen.read.1.tlog
+D:\new_stuff\pcs3\week 5 file handling\AppAboutTextfiles\AppAboutTextfiles\obj\Debug\ResGen.write.1.tlog
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Form1.resources
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Properties.Resources.resources
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csproj.GenerateResource.Cache
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.exe
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Form1.resources
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Properties.Resources.resources
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csproj.GenerateResource.Cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.exe
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\bin\Debug\AppAboutTextfiles.pdb
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csprojResolveAssemblyReference.cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Form1.resources
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.Properties.Resources.resources
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.csproj.GenerateResource.Cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.exe
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutTextfilesAndDialogs\AppAboutTextfiles\obj\Debug\AppAboutTextfiles.pdb

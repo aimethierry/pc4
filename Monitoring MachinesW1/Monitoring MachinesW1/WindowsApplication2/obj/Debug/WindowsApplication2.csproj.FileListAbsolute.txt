@@ -1,0 +1,18 @@
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csprojAssemblyReference.cache
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.cache
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Ov\Desktop\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csprojAssemblyReference.cache
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.cache
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\aimethierry\Downloads\Monitoring MachinesW1\Monitoring MachinesW1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

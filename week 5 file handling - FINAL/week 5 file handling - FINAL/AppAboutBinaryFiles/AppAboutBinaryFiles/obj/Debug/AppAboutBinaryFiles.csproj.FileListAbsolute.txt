@@ -1,0 +1,36 @@
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\ResolveAssemblyReference.cache
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Form1.resources
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Properties.Resources.resources
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.exe
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.pdb
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\old_stuff\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+D:\old_stuff\English stream\OOD2\week 3\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+D:\new_stuff\pcs3\week 5 file handling\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.exe
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Form1.resources
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Properties.Resources.resources
+D:\new_stuff\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.csproj.GenerateResource.Cache
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.exe
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.pdb
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Form1.resources
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Properties.Resources.resources
+D:\new_stuff\pcs3\week 5 file handling - STARTUP\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.csproj.GenerateResource.Cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.exe
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\bin\Debug\AppAboutBinaryFiles.pdb
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.csprojResolveAssemblyReference.cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Form1.resources
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.Properties.Resources.resources
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.csproj.GenerateResource.Cache
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.exe
+C:\Bert\pcs3\week 5 file handling - FINAL\AppAboutBinaryFiles\AppAboutBinaryFiles\obj\Debug\AppAboutBinaryFiles.pdb

@@ -1,0 +1,27 @@
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.exe
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.pdb
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.csproj.CoreCompileInputs.cache
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.csprojResolveAssemblyReference.cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 2\2.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\bin\Debug\Deliveries.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.csprojResolveAssemblyReference.cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.1 - Delivering Packages\Deliveries\obj\Debug\Deliveries.pdb

@@ -1,0 +1,7 @@
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\bin\Debug\pcs4 week 4 -1.exe.config
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\bin\Debug\pcs4 week 4 -1.exe
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\bin\Debug\pcs4 week 4 -1.pdb
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\obj\Debug\pcs4 week 4 -1.csprojAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\obj\Debug\pcs4 week 4 -1.csproj.CoreCompileInputs.cache
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\obj\Debug\pcs4 week 4 -1.exe
+H:\FONTYs\PCS4\assignments\pcs4 week 4 -1\pcs4 week 4 -1\obj\Debug\pcs4 week 4 -1.pdb

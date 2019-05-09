@@ -1,0 +1,10 @@
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\bin\Debug\week 3.2.1.exe.config
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\bin\Debug\week 3.2.1.exe
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\bin\Debug\week 3.2.1.pdb
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week_3._2._1.Form1.resources
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week_3._2._1.Properties.Resources.resources
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week 3.2.1.csproj.GenerateResource.Cache
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week 3.2.1.exe
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week 3.2.1.pdb
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week 3.2.1.csprojAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\week 3.2.1\week 3.2.1\obj\Debug\week 3.2.1.csproj.CoreCompileInputs.cache

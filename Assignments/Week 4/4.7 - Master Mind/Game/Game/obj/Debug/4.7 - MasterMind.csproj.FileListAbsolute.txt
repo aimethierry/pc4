@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\bin\Debug\prakttest.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\bin\Debug\prakttest.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\bin\Debug\prakttest.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\Game.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\4.7 - MasterMind.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\prakttest.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\prakttest.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.7 - Master Mind\Game\Game\obj\Debug\4.7 - MasterMind.csprojResolveAssemblyReference.cache

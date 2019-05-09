@@ -1,0 +1,10 @@
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\bin\Debug\Songfestival.exe.config
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\bin\Debug\Songfestival.exe
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\bin\Debug\Songfestival.pdb
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.csprojAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.Form1.resources
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.Properties.Resources.resources
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.csproj.GenerateResource.cache
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.csproj.CoreCompileInputs.cache
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.exe
+H:\FONTYs\PCS4\assignments\Songfestival\Songfestival\obj\Debug\Songfestival.pdb

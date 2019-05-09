@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\bin\Debug\Recursion Practice.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\bin\Debug\Recursion Practice.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\bin\Debug\Recursion Practice.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion Practice.csprojResolveAssemblyReference.cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion_Practice.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion_Practice.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion Practice.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion Practice.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 3\3.2 - Recursive Exercieses\Recursion Practice\obj\Debug\Recursion Practice.pdb

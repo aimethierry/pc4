@@ -1,0 +1,10 @@
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Release\Deliveries.exe.config
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Release\Deliveries.exe
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Release\Deliveries.pdb
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.csprojAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.Form1.resources
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.Properties.Resources.resources
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.csproj.GenerateResource.cache
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.csproj.CoreCompileInputs.cache
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.exe
+H:\FONTYs\PCS4\assignments\pcs4, week 3 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Release\Deliveries.pdb

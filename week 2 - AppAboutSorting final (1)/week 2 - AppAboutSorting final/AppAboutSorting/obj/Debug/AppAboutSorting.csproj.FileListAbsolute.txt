@@ -1,0 +1,10 @@
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\bin\Debug\AppAboutSorting.exe.config
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\bin\Debug\AppAboutSorting.exe
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\bin\Debug\AppAboutSorting.pdb
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.csprojAssemblyReference.cache
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.Form1.resources
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.Properties.Resources.resources
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.csproj.GenerateResource.cache
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.csproj.CoreCompileInputs.cache
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.exe
+C:\Users\aimethierry\Downloads\week 2 - AppAboutSorting final (1)\week 2 - AppAboutSorting final\AppAboutSorting\obj\Debug\AppAboutSorting.pdb

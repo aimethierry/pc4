@@ -1,0 +1,11 @@
+4/29/2019 10:31:37 PMMachine : name: hello; currrent temp: 50; current press: 50.Temp is too low50
+4/29/2019 10:31:57 PMMachine : name: hello; currrent temp: 30; current press: 50.Temp is too low30
+4/29/2019 10:31:59 PMMachine : name: hello; currrent temp: 30; current press: 50.Temp is too low30
+4/29/2019 10:32:04 PMMachine : name: hello; currrent temp: 50; current press: 50.Temp is too low50
+4/29/2019 10:37:04 PMMachine : name: turu; currrent temp: 50; current press: 50.Temp is too low50
+4/29/2019 10:37:06 PMMachine : name: turu; currrent temp: 50; current press: 50.Temp is too low50
+4/29/2019 10:37:11 PMMachine : name: turu; currrent temp: 10; current press: 50.Temp is too low10
+4/29/2019 10:37:16 PMMachine : name: turu; currrent temp: 10; current press: 50.Temp is too low10
+4/29/2019 10:37:21 PMMachine : name: turu; currrent temp: 40; current press: 50.Temp is too low40
+4/29/2019 10:39:08 PM Machine : Temp is too low50
+5/7/2019 7:19:10 AMname: titi; currrent temp: 50; current press: 30. Machine : Temp is too low50

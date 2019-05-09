@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\bin\Debug\5.1 - Linked List of Persons.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\bin\Debug\5.1 - Linked List of Persons.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\bin\Debug\5.1 - Linked List of Persons.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\5.1 - Linked List of Persons.csprojResolveAssemblyReference.cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\_5._1___Linked_List_of_Persons.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\_5._1___Linked_List_of_Persons.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\5.1 - Linked List of Persons.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\5.1 - Linked List of Persons.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.1 - Linked List of Persons\obj\Debug\5.1 - Linked List of Persons.pdb

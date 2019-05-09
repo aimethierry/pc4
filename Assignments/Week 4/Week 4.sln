@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1,2,3 - Ref and Out Exercises", "4.1,2,3 - Ref and Out Exercises\4.1,2,3 - Ref and Out Exercises.csproj", "{38AA625F-7EC1-43A7-936B-BFDE21C1659B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4,5 - Recursive Binary Search", "4.4 - Recursive Binary Search\Deliveries\4.4,5 - Recursive Binary Search.csproj", "{2BF9115C-C73C-44D8-A10B-7BC6B90C2DDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F8190B7-1EA8-47EF-BC18-5C3ABBA5B04B}"
+	ProjectSection(SolutionItems) = preProject
+		4.6 - Song Festival\Songfestival\Songfestival.csproj = 4.6 - Song Festival\Songfestival\Songfestival.csproj
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.6 - Song Festival", "4.6 - Song Festival\Songfestival\4.6 - Song Festival.csproj", "{DF47F707-4AEC-45CD-91BB-BBD6F06D82C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.7 - MasterMind", "4.7 - Master Mind\Game\Game\4.7 - MasterMind.csproj", "{02FA87E7-31AE-4376-B389-607515D2D551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AA625F-7EC1-43A7-936B-BFDE21C1659B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AA625F-7EC1-43A7-936B-BFDE21C1659B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AA625F-7EC1-43A7-936B-BFDE21C1659B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AA625F-7EC1-43A7-936B-BFDE21C1659B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF9115C-C73C-44D8-A10B-7BC6B90C2DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF9115C-C73C-44D8-A10B-7BC6B90C2DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF9115C-C73C-44D8-A10B-7BC6B90C2DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF9115C-C73C-44D8-A10B-7BC6B90C2DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF47F707-4AEC-45CD-91BB-BBD6F06D82C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF47F707-4AEC-45CD-91BB-BBD6F06D82C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF47F707-4AEC-45CD-91BB-BBD6F06D82C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF47F707-4AEC-45CD-91BB-BBD6F06D82C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FA87E7-31AE-4376-B389-607515D2D551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FA87E7-31AE-4376-B389-607515D2D551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FA87E7-31AE-4376-B389-607515D2D551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FA87E7-31AE-4376-B389-607515D2D551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

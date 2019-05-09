@@ -1,0 +1,8 @@
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.csprojResolveAssemblyReference.cache
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+H:\FONTYs\PCS4\assignments\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

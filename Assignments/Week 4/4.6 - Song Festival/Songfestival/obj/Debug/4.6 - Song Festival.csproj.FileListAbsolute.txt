@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\bin\Debug\Songfestival.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\bin\Debug\Songfestival.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\bin\Debug\Songfestival.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\Songfestival.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\Songfestival.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\4.6 - Song Festival.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\Songfestival.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\Songfestival.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.6 - Song Festival\Songfestival\obj\Debug\4.6 - Song Festival.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+A
+B
+789
+a
+
+before this line is an empty line
+last line

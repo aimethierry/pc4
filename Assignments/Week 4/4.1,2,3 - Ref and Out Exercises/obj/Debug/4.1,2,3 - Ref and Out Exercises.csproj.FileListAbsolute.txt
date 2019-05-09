@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\bin\Debug\4.1,2,3 - Ref and Out Exercises.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\bin\Debug\4.1,2,3 - Ref and Out Exercises.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\bin\Debug\4.1,2,3 - Ref and Out Exercises.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\4.1,2,3 - Ref and Out Exercises.csprojResolveAssemblyReference.cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\_4._1_2_3___Ref_and_Out_Exercises.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\_4._1_2_3___Ref_and_Out_Exercises.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\4.1,2,3 - Ref and Out Exercises.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\4.1,2,3 - Ref and Out Exercises.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 4\4.1,2,3 - Ref and Out Exercises\obj\Debug\4.1,2,3 - Ref and Out Exercises.pdb

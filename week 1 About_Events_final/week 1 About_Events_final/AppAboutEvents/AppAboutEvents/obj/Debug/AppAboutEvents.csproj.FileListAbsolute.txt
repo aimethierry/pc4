@@ -1,0 +1,23 @@
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.exe.config
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.exe
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.pdb
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.csprojResolveAssemblyReference.cache
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.Form1.resources
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.FormDisplayOnMotorbike.resources
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.FormForPits.resources
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.Properties.Resources.resources
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.csproj.GenerateResource.Cache
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.exe
+C:\Bert\pcs4\week 1\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.pdb
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.exe.config
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.exe
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\bin\Debug\AppAboutEvents.pdb
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.csprojAssemblyReference.cache
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.Form1.resources
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.FormDisplayOnMotorbike.resources
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.FormForPits.resources
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.Properties.Resources.resources
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.csproj.GenerateResource.cache
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.csproj.CoreCompileInputs.cache
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.exe
+C:\Users\aimethierry\Downloads\week 1 About_Events_final\week 1 About_Events_final\AppAboutEvents\AppAboutEvents\obj\Debug\AppAboutEvents.pdb

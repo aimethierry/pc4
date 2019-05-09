@@ -1,0 +1,9 @@
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\bin\Debug\5.2  - FiFo Waiting List.exe.config
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\bin\Debug\5.2  - FiFo Waiting List.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\bin\Debug\5.2  - FiFo Waiting List.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\_5._2____FiFo_Waiting_List.Form1.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\_5._2____FiFo_Waiting_List.Properties.Resources.resources
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\5.2  - FiFo Waiting List.csproj.GenerateResource.Cache
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\5.2  - FiFo Waiting List.exe
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\5.2  - FiFo Waiting List.pdb
+C:\Mrbh\University\Fontys\4th Block\PCS 4\Assignments\Week 5\5.2  - FiFo Waiting List\obj\Debug\5.2  - FiFo Waiting List.csprojResolveAssemblyReference.cache
